@@ -1,4 +1,4 @@
-from xml.etree.ElementTree import Element, SubElement, tostring
+from xml.etree.ElementTree import tostring
 from pydhl import requestbuilder, config
 
 # TEST
